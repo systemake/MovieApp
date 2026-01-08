@@ -2,7 +2,7 @@
 //  MovieDetailRouter.swift
 //  TheMovieDBChallenge
 //
-//  Created by Kevin Candia Villagómez on 8/03/23.
+//  Created by Jesus Gianfranco Gutierrez Jarra on 16/08/23.
 //
 
 import Foundation
